@@ -1,0 +1,4 @@
+numpy
+langchain-community
+pypdf
+langchain-ollama
