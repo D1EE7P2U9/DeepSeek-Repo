@@ -16,7 +16,7 @@ _Clone this repository:_
 
 git clone https://github.com/D1EE7P2U9/DeepSeek-Repo.git
 
-_Navigate to the SimpleRagwithDeepSeek directory:_
+Navigate to the SimpleRagwithDeepSeek directory:
 
 cd SimpleRagwithDeepSeek
 
